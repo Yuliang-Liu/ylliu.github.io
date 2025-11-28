@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuliang Liu personal websites"
+title: "Yuliang Liu"
 author_profile: true
 redirect_from: 
   - /about/
