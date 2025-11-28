@@ -14,6 +14,7 @@ redirect_from:
 - **MonkeyOCR: Document Parsing with a Structure-Recognition-Relation Triplet Paradigm**
   - [[Github](https://github.com/Yuliang-Liu/MonkeyOCR)] (6k+ stars) [[Paper](https://arxiv.org/abs/2506.05218)]
   - 多模态通用文档解析模型
+![monkeyocr](https://github.com/Yuliang-Liu/ylliu.github.io/blob/master/images/MonkeyOCR_v1_5.jpg "Logo")
 
 ## 主持项目
   - 国家自然科学基金**企业联合重点项目子课题**，U25B2078
