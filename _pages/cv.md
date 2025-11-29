@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "项目"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+国家级纵向项目
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 国家自然科学基金**企业联合重点项目子课题**，U25B2078
+* 国家自然科学基金**区域联合重点项目子课题**，U25A20538
+* 国家自然科学基金**面上项目**，62576147
+* 国家自然科学基金**青年项目**，62206104
+* 国家**重点研发计划子课题**，2022YFC3301703
+* 国家**重点研发计划子课题**，2022YFC2305100
 
-Work experience
+横向项目
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 字节跳动产学研合作项目 2026
+* 金山办公产学研合作项目 2025
+* 华为产学研合作项目 2025
+* CVTE产学研合作项目 结题
+* 金山办公产学研合作项目 结题
+* 腾讯产学研合作项目 结题
+* 百度产学研合作项目 结题
+* 华为产学研合作项目 结题
