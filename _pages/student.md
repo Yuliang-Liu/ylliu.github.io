@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "学生"
+title: "团队"
 permalink: /student/
 author_profile: true
 redirect_from:
