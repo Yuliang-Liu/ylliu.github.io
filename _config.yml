@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "刘禹良 / 个人主页"
+title                    : "Yuliang-Liu"
 title_separator          : "-"
-name                     : &name "刘禹良"
+name                     : &name "Yuliang Liu"
 description              : &description "Yuliang Liu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yuliang-liu.github.io/ylliu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,9 +26,9 @@ author:
   avatar           : "m.png"
   name             : "刘禹良"
   pronouns         : # example: "she/her"  
-  bio              : "教授，博导，国家级青年人才"
-  location         : "中国湖北武汉"
-  employer         : "华中科技大学（白翔团队）"
+  bio              : "Professor"
+  location         : "Hubei, China"
+  employer         : "Hust"
   uri              : # URL
   email            : "ylliu@hust.edu.cn" 
 
