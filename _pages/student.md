@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## PhD
-- Wenwen Yu
 - Dongliang Luo
 - Zhang Li
 - Ling Fu
@@ -44,5 +43,11 @@ redirect_from:
 - Wenqing Xiao
 - Xingchen Liu
 - Shiyun Lang
+
+## Graduated 
+- Wenwen Yu
+- Chenyang Gao
+- Biao Yang
+- Enming Zhang
 
   
