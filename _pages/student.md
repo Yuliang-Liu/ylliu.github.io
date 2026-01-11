@@ -8,16 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-指导学生
-======
-* XXX 国奖
-
-博士生
-======
-* XXX，
-
-
-硕士生
-======
-* XXX
-
+Team
