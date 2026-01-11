@@ -23,11 +23,11 @@ main:
   - title: "Paper"
     url: /cv/
 
-  - title: "Team"
-    url: /student/
+  # - title: "Team"
+  #   url: /student/
 
-  - title: "Blog"
-    url: /year-archive/
+  # - title: "Blog"
+  #   url: /year-archive/
   # - title: "CV"
   #   url: /cv-json/
     
