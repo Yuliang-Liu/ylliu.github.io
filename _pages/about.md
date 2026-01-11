@@ -25,7 +25,31 @@ His research focuses on Vision-Language Processing, specifically on Document Ana
 He has published numerous influential papers in top-tier journals (10+ papers in TPAMI/IJCV) and leading international conferences, with Best Paper, Oral, Spotlight, and Highlight presentations at CVPR, ACL, and NeurIPS. His top three representative works include arbitrarily shaped scene text spotting (e.g., the ABCNet/SPTS series), oracle bone script decipherment (e.g., the OBSD/P3 series), and large language model–based document understanding (e.g., Monkey series). More information is available at [Publication](https://yuliang-liu.github.io/ylliu.github.io/cv/).
 
 ## Project
-He has served as principal investigator or sub-project leader for multiple major research programs, including enterprise joint key projects, regional joint key projects, General and Young Scientist Programs of the National Natural Science Foundation of China, as well as sub-projects of the National Key R&D Program of China. He has led more than 20 national, provincial–ministerial, and industry-funded research and engineering projects. He serves as Deputy Secretary-General of the Technical Committee on Document Analysis and Recognition of the China Society of Image and Graphics, Guest Editor of Science China Information Sciences, Young Editorial Board Member of the Journal of Image and Graphics, and Senior Program Committee Member of Top-tier International Conference.
+He has served as principal investigator or sub-project leader for multiple major research programs, including enterprise joint key projects, regional joint key projects, General and Young Scientist Programs of the National Natural Science Foundation of China, as well as sub-projects of the National Key R&D Program of China. He has led more than 20 national, provincial–ministerial, and industry-funded research and engineering projects. 
 
+## Academic Services
+He is the reviewer of TPAMI/TIP/Scientific Data/Artificial Intelligence Review/IJCV/TMM/TITS/TCSVT/SCIS/CVPR/ICCV/ECCV/ICML/ICLR/NeurIPS/IJCAI et al. NeurIPS Top Reviewer, Outstanding Reviewer of ICCV/ICDAR. He serves as Deputy Secretary-General of the Technical Committee on Document Analysis and Recognition of the China Society of Image and Graphics, Guest Editor of Science China Information Sciences, Young Editorial Board Member of the Journal of Image and Graphics, and Senior Program Committee Member of Top-tier International Conference. He is also the member of the CCF Technical Committee on Computer Vision, CSIG Technical Committee on Machine Vision, CAA Technical Committee on Pattern Recognition and Machine Intelligence, and CAAI Technical Committee on Intelligent Services.
 
+## Teaching 
+- Introduction to Multimodal Large Models
+- Vision and Natural Language Processing
+- Natural Language Processing
+- Human–Computer Interaction
+- Intelligent Chip Design
+- Digital Image Processing (Taught in English)
+- Frontiers of Artificial Intelligence
+- Applied Artificial Intelligence
 
+## Academic Advising Competition
+- National Grand Prize (Top Award), Main Track of the 19th “Challenge Cup” National College Students’ Extracurricular Academic Science and Technology Competition (MOE Category A); invited team at the closing ceremony (only 3 teams nationwide)
+- National Gold Award, Higher Education Main Track of the 11th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition (MOE Category A)
+- Champion (“Top of the Leaderboard”), 19th “Challenge Cup” “Unveiling the List and Taking the Lead” Special Competition (MOE Category A)
+- National Gold Award, Industry Track of the 10th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition (MOE Category A)
+- National Gold Award, Red Tourism Track of the 8th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition (MOE Category A)
+- Champion, CVPR 2020 TextVQA Challenge
+- Double-Track Champion, ICDAR 2019 ReCTS Competition
+- Double-Track Champion, ICDAR 2017 Multi-Lingual Text (MLT) Competition
+- Champion, Track 1 of the AI + Oracle Bone Script Decipherment Invitational Challenge
+- Outstanding Advisor Award, 2024 China Collegiate Computing Contest – Mobile Application Innovation Competition
+  
+## 
