@@ -9,14 +9,19 @@ redirect_from:
 
 {% include base_path %}
 # Selected Publications
-Sourced codes can be found at https://github.com/Yuliang-Liu.
+Sourced codes can be found at [GitHub](https://github.com/Yuliang-Liu). More papers can be found at [Google Scholar](https://scholar.google.com/citations?user=9uPDtI4AAAAJ&hl=zh-CN).
 
 ## Recent Papers
 - **2025** IJCV. Liquid: Language models are scalable multi-modal generators.
-- **2025** EMNLP. Theorem-Validated Reverse Chain-of-Thought Problem Generation for Geometric Reasoning.
+- **2025** TPAMI. Privacy-preserving biometric verification with handwritten random digit string.
+- **2025** EMNLP main. Theorem-Validated Reverse Chain-of-Thought Problem Generation for Geometric Reasoning.
 - **2025** Neurips Dataset Track. OCRBench v2: An Improved Benchmark for Evaluating Large Multimodal Models on Visual Text Localization and Reasoning.
 - **2024** CVPR Highlight. Monkey: Image Resolution and Text Label are Important Things for Large Multi-modal Models.
 - **2024** ACL Best Paper. Deciphering oracle bone language with diffusion models.
+- **2024** Scientific Data. An open dataset for oracle bone character recognition and decipherment.
+- **2024** ICDAR Oral. Puzzle pieces picker: Deciphering ancient chinese characters with radical reconstruction.
+- **2024** TPAMI. Turning a Clip Model into a Scene Text Spotter.
+- **2024** IJCV. SwinTextSpotter v2: Towards Better Synergy for Scene Text Spotting.
 
 ## First author
 - **2026** TPAMI. TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document.
