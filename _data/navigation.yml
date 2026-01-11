@@ -23,8 +23,8 @@ main:
   - title: "Publication"
     url: /cv/
 
-  # - title: "Team"
-  #   url: /student/
+  - title: "Student"
+    url: /student/
 
   # - title: "Blog"
   #   url: /year-archive/
