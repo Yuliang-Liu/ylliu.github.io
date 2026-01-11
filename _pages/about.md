@@ -51,5 +51,4 @@ He is the reviewer of TPAMI/TIP/Scientific Data/Artificial Intelligence Review/I
 - Double-Track Champion, ICDAR 2017 Multi-Lingual Text (MLT) Competition
 - Champion, Track 1 of the AI + Oracle Bone Script Decipherment Invitational Challenge
 - Outstanding Advisor Award, 2024 China Collegiate Computing Contest – Mobile Application Innovation Competition
-  
-## 
+
