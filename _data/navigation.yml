@@ -26,6 +26,8 @@ main:
   - title: "Student"
     url: /student/
 
+  - title: "Join us"
+    url: /joinus/
   # - title: "Blog"
   #   url: /year-archive/
   # - title: "CV"
