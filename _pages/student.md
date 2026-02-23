@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Students I Supervise and Co-supervise"
+title: "学生指导/共同指导"
 permalink: /student/
 author_profile: true
 redirect_from:
@@ -9,45 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-## PhD
-- Dongliang Luo
-- Zhang Li
-- Ling Fu
-- Hao Yan
-- Haisu Guan
-- Pengjie Wang
-- Hanshen Zhu
-- Jinpeng Wan
-- Ziyang Zhang
-- Handong Zheng
-  
-## Master
-- Liang Yin
-- Yang Liu
-- Qidi Luo
-- Zhiyin Ma
-- Shuo Zhang
-- Linger Deng
-- Zhebin Kuang
-- Jiajun Song
-- Linghao Zhu
-- Yiran Guan
-- Yuzhe Li
-- Kaile Zhang
-- Huanxin Yang
-- Zujia Zhang
-- Jiaxuan Wu
-- Yiran Lu
-- Yao Lu
-- Zidun Guo
-- Wenqing Xiao
-- Xingchen Liu
-- Shiyun Lang
+## 博士研究生
+余文文（已毕业）、谢旭东（已毕业）、罗东亮、李长、伏凌、严昊、管海粟、王鹏杰、朱翰绅、万金鹏、张子扬、郑汉东
 
-## Graduated 
-- Wenwen Yu
-- Chenyang Gao
-- Biao Yang
-- Enming Zhang
+## 硕士研究生  
 
-  
+郜晨阳（已毕业）、杨彪（已毕业）、张恩铭（已毕业）、尹亮、刘洋、罗琪頔、马智寅、张朔、邓菱儿、匡嚞玢、宋佳俊、管一然、朱泠皞、黎宇哲、张凯乐、杨焕鑫、张祖嘉、吴佳璇、陆一然、卢瑶、郭子敦、肖文清、刘星辰、郎诗韵
+
+实验室毕业生就业情况良好，提供就业帮助和指导，实习机会充沛，特别优秀的可推荐到国际顶尖科研机构。实验室风格方面，生活可随和，科研立严规。
