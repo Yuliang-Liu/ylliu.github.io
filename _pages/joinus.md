@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+团队：VLRLab (白翔教授领衔)
 
+地址：华中科技大学南一楼W316
 
+邮箱：ylliu(at)hust.edu.cn 
   
