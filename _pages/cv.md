@@ -16,6 +16,7 @@ redirect_from:
 - 中国自动化学会模式识别与机器智能专委会(CAA-PRMI)委员
 - 中国人工智能学会智能服务专委会委员
 - Guest Editor of Science China Information Science (CCF A/中科院一区期刊)
+- 中国图象图形学报青年编委
 - Program commitees member of top tier International conference
 - Neurips Top Reviewer
 - ICDAR Outstanding Reviewer
