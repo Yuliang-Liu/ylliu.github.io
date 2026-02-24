@@ -20,7 +20,7 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
     
-  - title: "Publication"
+  - title: "Activity"
     url: /cv/
 
   - title: "Student"
