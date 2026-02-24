@@ -8,29 +8,30 @@ redirect_from:
 ---
 
 {% include base_path %}
-# Selected Publications（10 Papers）
-Sourced codes can be found at [GitHub](https://github.com/Yuliang-Liu). More papers can be found at [Google Scholar](https://scholar.google.com/citations?user=9uPDtI4AAAAJ&hl=zh-CN).
+# Academic Service
+- IEEE Senior Member.
+- 中国图象图形学学会文档图像分析与识别专委会(CSIG-DAIR)副秘书长
+- 中国计算机学会计算机视觉专委会(CCF-CV)委员
+- 中国图象图形学学会机器视觉专业委员会(CSIG-MV)委员
+- 中国自动化学会模式识别与机器智能专委会(CAA-PRMI)委员
+- 中国人工智能学会智能服务专委会委员
+- Guest Editor of Science China Information Science (CCF A/中科院一区期刊)
+- Program commitees member of top tier International conference
+- Neurips Top Reviewer
+- ICDAR Outstanding Reviewer
+- Website/local Chair of ICDAR 2025
+- TPAMI/IJCV/TIP/Nature 旗下期刊/CVPR/ICML/ICLR/ICCV/NeurIPS/IJCAI/ECCV等40余顶级国际期刊会议审稿人
 
-## Recent Paper
-- **2025** arXiv. MonkeyOCR: Document Parsing with a Structure-Recognition-Relation Triplet Paradigm.
-- **2025** IJCV. Liquid: Language models are scalable multi-modal generators.
-- **2025** EMNLP Main. Theorem-Validated Reverse Chain-of-Thought Problem Generation for Geometric Reasoning. 
-- **2025** Neurips Dataset Track. OCRBench v2: An Improved Benchmark for Evaluating Large Multimodal Models on ... 
-- **2024** CVPR Highlight. Monkey: Image Resolution and Text Label are Important Things for Large Multi-modal Models. 
-- **2024** ACL Best Paper. Deciphering oracle bone language with diffusion models. 
-- **2024** Scientific Data. An open dataset for oracle bone character recognition and decipherment. 
-- **2024** ICDAR Oral. Puzzle pieces picker: Deciphering ancient chinese characters with radical reconstruction. 
-- **2024** TPAMI. Turning a Clip Model into a Scene Text Spotter. 
-- **2024** IJCV. SwinTextSpotter v2: Towards Better Synergy for Scene Text Spotting. 
-
-## First author
-- **2026** TPAMI. TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document. 
-- **2025** TPAMI. VimTS: A Unified Video and Image Text Spotter for Enhancing the Cross-Domain  Generalization. 
-- **2024** SCIS. Ocrbench: on the hidden mystery of ocr in large multimodal models. 
-- **2023** TPAMI. SPTS v2: Single-point Scene Text Spotting. 
-- **2022** TPAMI. ABCNet v2: Adaptive Bezier-Curve Network for Real-Time End-to-End Text Spotting. 
-- **2021** IJCV. Exploring the capacity of an orderless box discretization network for multi-orientation scene text detection. 
-- **2020** CVPR Oral. ABCNet: Real-Time Scene Text Spotting with Adaptive Bezier-Curve Network. 
-- **2019** IJCAI Oral. Omnidirectional scene text detection with sequential-free box discretization. 
-- **2018** PR. Curved scene text detection via transverse and longitudinal sequence connection. 
-- **2017** CVPR Spotlight. Deep matching prior network: Toward tighter multi-oriented text detection. 
+## Student Activities
+- 第十一届中国国际大学生“互联网+”创新创业大赛高教主赛道全国金奖
+- 第十届中国国际大学生“互联网+”创新创业大赛产业赛道全国金奖
+- 第八届中国国际大学生“互联网+”创新创业大赛红旅赛道全国金奖
+- 第六届中国国际大学生“互联网+”创新创业大赛高教主赛道全国金奖
+- 第十九届挑战杯主赛道全国特等奖（唯三队伍入选闭幕式）
+- 第十九届挑战杯“揭榜挂帅”专项赛全国擂主（排一）
+- Champion, CVPR 2020 TextVQA Challenge
+- Double-Track Champion, ICDAR 2019 ReCTS Competition
+- Double-Track Champion, ICDAR 2017 Multi-Lingual Text (MLT) Competition
+- Champion, Track 1 of the AI + Oracle Bone Script Decipherment Invitational Challenge
+- 华中科技大学我最喜爱的教师班主任
+- 华中科技大学五四青年
