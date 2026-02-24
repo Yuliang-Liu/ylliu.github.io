@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-# Academic Service
+## Academic Service
 - IEEE Senior Member.
 - 中国图象图形学学会文档图像分析与识别专委会(CSIG-DAIR)副秘书长
 - 中国计算机学会计算机视觉专委会(CCF-CV)委员
@@ -23,6 +23,19 @@ redirect_from:
 - Website/local Chair of ICDAR 2025
 - TPAMI/IJCV/TIP/Nature 旗下期刊/CVPR/ICML/ICLR/ICCV/NeurIPS/IJCAI/ECCV等40余顶级国际期刊会议审稿人
 
+## Academic Event
+- ICDAR 2025 甲骨文处理 Tutorial, Organizers
+- ICDAR 2025 大模型在文档图像应用的挑战与机遇研讨会，Organizers
+- ICDAR 2023 MHME 多行手写公式识别竞赛，Organizers
+- ICDAR 2023 STE-VRD 富文档结构化文本抽取竞赛，Organizers
+- ICDAR 2023 DTT 异常图像文本检测竞赛，Organizers
+- ICDAR 2023 Seal 印章文字阅读竞赛，Organizers
+- ICPR 2022 MMSR 视频字幕阅读竞赛，Organizers
+- ICDAR 2021 ICT 芯片文字阅读竞赛，Organizers
+- ICDAR 2019 LSVT 大规模街景文字阅读竞赛，Organizers
+- ICDAR 2019 ArT 任意形状文本阅读竞赛，Organizers
+- ICPR 2018 MTWI 网络图像的文本检测竞赛，Organizers
+
 ## Student Activities
 - 第十一届中国国际大学生“互联网+”创新创业大赛高教主赛道全国金奖
 - 第十届中国国际大学生“互联网+”创新创业大赛产业赛道全国金奖
@@ -34,5 +47,16 @@ redirect_from:
 - Double-Track Champion, ICDAR 2019 ReCTS Competition
 - Double-Track Champion, ICDAR 2017 Multi-Lingual Text (MLT) Competition
 - Champion, Track 1 of the AI + Oracle Bone Script Decipherment Invitational Challenge
+- 2024 中国高校计算机大赛移动应用创新赛国赛优秀指导教师
 - 华中科技大学我最喜爱的教师班主任
 - 华中科技大学五四青年
+
+## Academic Presentation
+- 峰会报告.庆祝中华人民共和国成立75 周年共绘AI大模型创新蓝图峰会.香港特别行政区政府驻北京办事处、中国香港商会主办，2024 北京
+- 论坛报告.中非文字识别与自然语言处理创新论坛平行专场活动.科技部、湖北省人民政府主办，2023 武汉
+- 研讨会报告.CVPR“2nd Workshop on Foundation Models”, 美国西雅图
+- Best Paper onsite report. ACL, 2024 泰国曼谷
+- APR. VALSE 2022 天津
+- 研讨会报告. VALSE "W5：语言文字识别与理解", 2023 无锡
+- 研讨会报告. VALSE "W18:多模态大模型"研讨会，2024 重庆
+
