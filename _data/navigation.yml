@@ -26,10 +26,12 @@ main:
   - title: "Student"
     url: /student/
 
+  - title: "Blog"
+    url: /year-archive/
+  
   - title: "Join us"
     url: /joinus/
-  # - title: "Blog"
-  #   url: /year-archive/
+
   # - title: "CV"
   #   url: /cv-json/
     
