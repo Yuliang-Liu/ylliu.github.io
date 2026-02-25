@@ -17,7 +17,6 @@ Professor and Ph.D. Supervisor at Huazhong University of Science and Technology.
 • Learn to Use Large Language Models
 • Vision-Language Processing
 • Digital Image Processing (Taught in English)
-• Frontiers of Artificial Intelligence
 • Applied Artificial Intelligence
 
 ## First Author Publication Each Year
