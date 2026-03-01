@@ -20,42 +20,42 @@ Professor and Ph.D. Supervisor at Huazhong University of Science and Technology.
 • Applied Artificial Intelligence
 
 ## First Author Publication Each Year
-- **TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document** [[Paper]](https://ieeexplore.ieee.org/abstract/document/11364328)  
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**, IF 20.4), 2026*  
+- **TextMonkey: An OCR-Free Large Multimodal Model for Understanding Document** [[Paper]](https://ieeexplore.ieee.org/abstract/document/11364328)[[Code]](https://github.com/Yuliang-Liu/Monkey)  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026*  
   ⭐ 100+ Citation
 
-- **VimTS: A Unified Video and Image Text Spotter for Enhancing Cross-Domain Generalization** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10840310)  
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**, IF 20.4), 2025* 
+- **VimTS: A Unified Video and Image Text Spotter for Enhancing Cross-Domain Generalization** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10840310)[[Code]](https://github.com/Yuliang-Liu/VimTS)  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2025* 
 
-- **OCRBench: On the Hidden Mystery of OCR in Large Multimodal Models** [[Paper]](https://link.springer.com/article/10.1007/s11432-024-4235-6)  
+- **OCRBench: On the Hidden Mystery of OCR in Large Multimodal Models** [[Paper]](https://link.springer.com/article/10.1007/s11432-024-4235-6)[[Code]](https://github.com/Yuliang-Liu/MultimodalOCR)  
   *Science China Information Sciences (**SCIS**), 2024*  
   ⭐ 100+ Citation
 
-- **SPTS v2: Single-point Scene Text Spotting** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10239535)  
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**, IF 20.4), 2023*   
+- **SPTS v2: Single-point Scene Text Spotting** [[Paper]](https://ieeexplore.ieee.org/abstract/document/10239535)[[Code]](https://github.com/bytedance/SPTSv2)  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023*   
   ⭐ 100+ Citation
 
-- **ABCNet v2: Adaptive Bezier-Curve Network for Real-Time End-to-End Text Spotting** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9525302/)  
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**, IF 20.4), 2022*   
+- **ABCNet v2: Adaptive Bezier-Curve Network for Real-Time End-to-End Text Spotting** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9525302/)[[Code]](https://github.com/aim-uofa/AdelaiDet/blob/master/configs/BAText/README.md)  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2022*   
   ⭐ 100+ Citation
 
-- **Exploring the Capacity of an Orderless Box Discretization Network for Multi-Orientation Scene Text Detection** [[Paper]](https://link.springer.com/article/10.1007/s11263-021-01459-7)  
-  *International Journal of Computer Vision (**IJCV**, IF 15.5), 2021*   
-  🏆 Champion of ICDAR'19 ReCTS Competition
+- **Exploring the Capacity of an Orderless Box Discretization Network for Multi-Orientation Scene Text Detection** [[Paper]](https://link.springer.com/article/10.1007/s11263-021-01459-7)[[Code]](https://github.com/Yuliang-Liu/Box_Discretization_Network)  
+  *International Journal of Computer Vision (**IJCV**), 2021*   
+  🏆 Double-track Champion of ICDAR'19 ReCTS Competition
 
-- **ABCNet: Real-Time Scene Text Spotting with Adaptive Bezier-Curve Network** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_ABCNet_Real-Time_Scene_Text_Spotting_With_Adaptive_Bezier-Curve_Network_CVPR_2020_paper.html)  
+- **ABCNet: Real-Time Scene Text Spotting with Adaptive Bezier-Curve Network** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_ABCNet_Real-Time_Scene_Text_Spotting_With_Adaptive_Bezier-Curve_Network_CVPR_2020_paper.html)[[Code]](https://github.com/Yuliang-Liu/bezier_curve_text_spotting)  
   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR Oral**), 2020*   
   ⭐ 100+ Citation 
 
-- **Omnidirectional scene text detection with sequential-free box discretization** [[Paper]](https://www.ijcai.org/proceedings/2019/423)  
+- **Omnidirectional scene text detection with sequential-free box discretization** [[Paper]](https://www.ijcai.org/proceedings/2019/423)[[Code]](https://github.com/Yuliang-Liu/Box_Discretization_Network)  
   *Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (**IJCAI Oral**), 2019*   
   ⭐ 100+ Citation
 
-- **Curved Scene Text Detection via Transverse and Longitudinal Sequence Connection** [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320319300664)]   
+- **Curved Scene Text Detection via Transverse and Longitudinal Sequence Connection** [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320319300664)][[Code]](https://github.com/Yuliang-Liu/Curve-Text-Detector)   
   *Pattern Recognition (**PR**), 2018*   
   ⭐ 100+ Citation
 
-- **Deep Matching Prior Network: Toward Tighter Multi-Oriented Text Detection** [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/html/Liu_Deep_Matching_Prior_CVPR_2017_paper.html)  
+- **Deep Matching Prior Network: Toward Tighter Multi-Oriented Text Detection** [[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/html/Liu_Deep_Matching_Prior_CVPR_2017_paper.html)
   *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (**CVPR Spotlight**), 2017*   
   ⭐ 100+ Citation
 
