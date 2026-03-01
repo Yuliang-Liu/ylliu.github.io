@@ -80,6 +80,10 @@ Professor and Ph.D. Supervisor at Huazhong University of Science and Technology.
   H. Yan, X. Liu, H. Wang, Z. Cao, H. Zheng, L. Yin, X. Su, Z. Chen, J. Wu, M. Liao, C. Weng, W. Chen, **Y. Liu**, X. Bai  
   *International Conference on Learning Representations (**ICLR**), 2026*
 
+- **Liquid: Language Models are Scalable Multi-Modal Generators**  
+  J. Wu, Y. Jiang, C. Ma, **Y. Liu**, H. Zhao, Z. Yuan, S. Bai, X. Bai  
+  *International Journal of Computer Vision (**IJCV**), 2025*
+  
 - **Layerlink: Bridging Remote Sensing Object Detection and Large Vision Models with Efficient Fine-tuning**  
   X. Zhu, D. Liang, X. Jiang, Y. Guan, **Y. Liu**, Y. Zhu, X. Bai  
   *Pattern Recognition (**PR**), 2025*
