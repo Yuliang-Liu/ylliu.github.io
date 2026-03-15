@@ -60,6 +60,10 @@ Professor and Ph.D. Supervisor at Huazhong University of Science and Technology.
   ⭐ 100+ Citation
 
 ## Publication (Last Three Years)
+- **Omniparser v2: Structured-points-of-thought for unified visual text parsing and its generality to multimodal large language models**  
+  W Yu, Z Yang, J Wan, S Song, J Tang, W Cheng, **Y Liu**, X Bai  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2026*
+  
 - **DocSeeker: Structured Visual Reasoning with Evidence Grounding for Long Document Understanding**  
   H. Yan, **Y. Liu**, X. Liu, Y. Zhang, M. Liao, J. Wu, W. Chen, X. Bai  
   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026*
