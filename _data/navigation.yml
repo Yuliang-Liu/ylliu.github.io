@@ -20,17 +20,17 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
     
-  - title: "Activity"
-    url: /cv/
+  # - title: "Activity"
+  #   url: /cv/
 
-  - title: "Student"
-    url: /student/
+  # - title: "Student"
+  #   url: /student/
 
   - title: "Blog"
     url: /year-archive/
   
-  - title: "Join us"
-    url: /joinus/
+  # - title: "Join us"
+  #   url: /joinus/
 
   # - title: "CV"
   #   url: /cv-json/
